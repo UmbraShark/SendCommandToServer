@@ -1,0 +1,5 @@
+/home/hamza/CLionProjects/CommandClientServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hamza/CLionProjects/CommandClientServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hamza/CLionProjects/CommandClientServer/cmake-build-debug/CMakeFiles/Client.dir
+/home/hamza/CLionProjects/CommandClientServer/cmake-build-debug/CMakeFiles/Server.dir
+/home/hamza/CLionProjects/CommandClientServer/cmake-build-debug/CMakeFiles/test.dir

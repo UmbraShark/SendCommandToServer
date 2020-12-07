@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CommandClientServer.dir/Server.c.o CMakeFiles/CommandClientServer.dir/Client.c.o CMakeFiles/CommandClientServer.dir/test.c.o  -o CommandClientServer 
